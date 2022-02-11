@@ -1,7 +1,7 @@
 March, 2021
 
 # calculate-sum-mnist
-With the help of different set ups of neural networks, classify pairs of MNIST data set samples, calculating their sum. 
+With the help of different set ups of neural networks, classify pairs of MNIST data set samples, calculating their sum. [Open code and output](/calculate-sum-mnist.html)
 
 ### Visualisation of goal (positive and negative example)
 
