@@ -20,4 +20,4 @@ Training first on the right order training data set. Selecting the best model. T
 
 ### Evaluating on test set
 
-Evaluate the model selected on the test set and visualizing some examples. Show the accuracy of the final chosen model on the test set for each pair of digits.
+Evaluate the model selected on the test set and visualizing some examples.
